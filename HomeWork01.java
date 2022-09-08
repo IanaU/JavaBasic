@@ -1,8 +1,8 @@
 /**
  * Java Basic. Home work #1
  *
- * @ author Iana Ushko
- * @ version 5.9.2022
+ * @author Iana Ushko
+ * @version 5.9.2022
  *
  */
 class HomeWork01 {
