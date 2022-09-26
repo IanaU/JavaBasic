@@ -1,3 +1,12 @@
+/**
+ * Java Basic. Home work #7
+ *
+ * @author Iana Ushko
+ * @todo 26.9.2022
+ * @date 27.9.2022
+ *
+ */
+
 import java.util.*;
 
 public class HomeWork_7 {
