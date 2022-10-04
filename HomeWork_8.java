@@ -1,9 +1,9 @@
 /**
- * Java Basic. Home work #7
+ * Java Basic. Home work #8
  *
  * @author Iana Ushko
  * @todo 28.9.2022
- * @date 03.10.2022
+ * @date 04.10.2022
  *
  */
 
